@@ -40,5 +40,6 @@ Note: Start time of one chosen meeting can't be equal to the end time of the oth
                 last=meetings[i].second;;
             }
         }
+      
         return maximum;
     }
